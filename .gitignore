@@ -1,0 +1,33 @@
+# Compiled output
+/dist/
+/dist-server/
+/node_modules/
+
+# Log files
+/logs/
+*.log
+
+# Dependency directories
+/e2e/node_modules/
+/src/app/node_modules/
+
+# Environment files
+/src/environments/*.js
+
+# Compiled Angular CLI files
+/*.js.map
+/*.js
+/*.d.ts
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Editor-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
